@@ -1,0 +1,41 @@
+runtime enviroment node js vaneko
+
+js run garna js script engine
+
+react js 
+js ma http ko kami thiyo
+
+node js is not for cpu intensive work
+
+multithreading interview question
+
+install react app from terminal
+npm install -g crreate-react-app
+create-react-app-version
+npx create-react-app<project name>
+
+
+from vite
+.npm create vite@latest
+.npm install
+.npm run dev
+
+
+
+git init
+git remote add origin https
+git add.
+git commit -m "add initial v"
+git push origin master
+
+branching
+git branch <name>
+git checkout<name>
+git add
+git commit -m"add initial command" 
+git push -u origin <name>
+
+merging
+git checkout master
+git merge <change branch name>
+git push -u origin master
